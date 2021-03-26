@@ -1,4 +1,9 @@
 # springbootspockfeigngradle-customer-service
+
+Author: Jose Alfonso Corominas
+email:  jatcorominas@gmail.com
+cell:   (647) 618-2080
+
 Demo application that integrates springboot feign spock and gradle
 
 1. Download the project
